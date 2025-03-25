@@ -18,5 +18,7 @@ Build Time: 2025-03-07T00:42:23Z
 Example:
 
 `splitter -input_file=source.csv -lines_per_file=1000 -use_header=true`
+
+
 `splitter -input_file=POS_FILE227_2023-06-02_17-54-34.TXT -lines_per_file=50000 -use_header=false`
 
