@@ -1,5 +1,5 @@
 # splitter
-split text file for chunks
+split text file for chunks, split csv big file
 
 Task: Split a big text file for a smallest parts for import, for example
 
